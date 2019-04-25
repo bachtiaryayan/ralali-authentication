@@ -1,0 +1,55 @@
+{
+  "_from": "git+https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git",
+  "_id": "ralali-authentication@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-q+cqSMpizw9sQ6N4yu8ebHYofkA=",
+  "_location": "/ralali-authentication",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "ralali-authentication@git+https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git",
+    "name": "ralali-authentication",
+    "escapedName": "ralali-authentication",
+    "rawSpec": "git+https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git",
+    "saveSpec": "git+https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git",
+    "fetchSpec": "https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git#ab451423dc0903e84ce0c068181aa449b0d191ec",
+  "_spec": "ralali-authentication@git+https://devops-ralali:Ralali2016X@github.com/bachtiaryayan/ralali-authentication.git",
+  "_where": "/Users/dianita/kerjaan/api-user-dev",
+  "author": {
+    "name": "Ralali Dev Team",
+    "email": "dev@ralali.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ralali/ralali-authentication/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jwt-simple": "^0.5.0",
+    "moment": "^2.15.1",
+    "simple-encryptor": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "module for authentication",
+  "homepage": "https://github.com/ralali/ralali-authentication#readme",
+  "keywords": [
+    "authentication",
+    "service"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ralali-authentication",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukmanlukmin/ralali-authentication.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.0.6"
+}
